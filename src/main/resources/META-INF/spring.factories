@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.dupenghao.knife4jautoconfig.autoconfigure.MyKnife4jAutoConfiguration
